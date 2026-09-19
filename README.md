@@ -1,9 +1,11 @@
 # CloudPool
 
-All your free cloud storage in one drive. CloudPool signs in to as many free
-Google Drive (15 GB), MEGA (20 GB) and TeraBox (1 TB) accounts as you own and
-shows them as a single drive you can upload to, share links from, open in
-Finder or File Explorer, and use from your phone.
+All your storage accounts, pooled into drives. CloudPool signs in to as many
+cloud accounts as you own, from free Google Drive (15 GB), MEGA (20 GB) and
+TeraBox (1 TB) accounts to OneDrive, Dropbox, GitHub, S3 buckets and your own
+NAS (59 kinds in all), and shows them as drives you can upload to, keep in
+sync both ways, share links from, open in Finder or File Explorer, and use
+from your phone.
 
 **Website, setup guide and questions: https://cloudpool.vercel.app**
 
@@ -30,8 +32,12 @@ so the first launch needs one extra click. The
 [download page](https://cloudpool.vercel.app/download) shows exactly what to
 click on each system.
 
+Using CloudPool on several computers? Update all of them to the same version:
+older versions keep working with your login but do not see newer drives or
+kinds of accounts.
+
 Found a problem? [Open an issue](https://github.com/zubairkhan778/cloudpool/issues)
 with what you did and what happened.
 
-Google Drive, MEGA and TeraBox are trademarks of their respective owners, who
-are not connected with CloudPool.
+The names of the storage services CloudPool connects to are trademarks of
+their respective owners, who are not connected with CloudPool.
